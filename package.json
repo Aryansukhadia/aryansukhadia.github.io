@@ -2,14 +2,14 @@
   "name": "portfolio-website",
   "version": "1.0.0",
   "description": "Personal portfolio website",
-  "homepage": "https://aryansukhadia.github.io",
+  "homepage": "https://Aryansukhadia.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d .",
     "build": "echo 'No build step required for static site'"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "gh-pages": "^6.1.0"
-  },
-  "devDependencies": {}
+  }
 }
