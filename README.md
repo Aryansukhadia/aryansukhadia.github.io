@@ -25,7 +25,7 @@ Welcome to my personal website! This site is a showcase of my skills, projects, 
 - **Typed.js**: Adding dynamic typing animations for a modern touch.
 
 ## Demo 🚀
-You can view the website live at: [YourWebsiteURL](https://aryansukhadia.github.io/)
+You can view the website live at: [Aryansukhadia](https://aryansukhadia.github.io/)
 
 ---
 
